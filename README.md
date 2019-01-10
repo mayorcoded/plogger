@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/libgit2/libgit2sharp/raw/master/square-logo.png"><img src="" alt="Plogger logo"/>
+  <a href="https://github.com/mayorcoded/plogger"><img src="https://i.ibb.co/0Yb4G8h/plogger-logo.png" alt="Plogger logo"/>
   </a>
   <br /><br />
 </p>
